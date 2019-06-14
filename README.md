@@ -1,4 +1,4 @@
-# node-element
+# node.js与element-ui实现简易后台搭建
 node + element-ui + vue快速建立简易后台
 
 使用node-express和element-ui快速搭建的简易后台
