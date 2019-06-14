@@ -11,13 +11,8 @@
 * express:node的框架使用<br>
 * CORS:使用CORS实现跨域<br>
 # 页面信息
-信息添加页:使用element-ui`Container 布局容器`、`表单Form`以及`Message 消息提示`完成前端样式与布局，使用`axios`发送添加的数据信息，后端使用node.js编写相应的api接口完成表单提交。<br>
-![image](https://github.com/HZJ0716/node-element/blob/master/img/1.png)
-
-![image](https://github.com/HZJ0716/node-element/blob/master/img/2.png)
-
-![image](https://github.com/HZJ0716/node-element/blob/master/img/3.png)
-
-![image](https://github.com/HZJ0716/node-element/blob/master/img/4.png)
-
-![image](https://github.com/HZJ0716/node-element/blob/master/img/6.png)
+信息添加页:使用element-ui`Container 布局容器`、`表单Form`以及`Message 消息提示`完成前端样式与布局，使用`axios`发送添加的数据信息，后端使用node.js编写相应的api接口完成表单提交。<br><br>
+信息展示页:使用element-ui`Container 布局容器`、`表单Form`,使用`axios`发送数据获取请求，后端使用node.js编写相应的api接口完成数据查询。<br><br>
+信息查询页:使用element-ui`Container 布局容器`、`表单Form`,使用`axios`发送数据查询请求，后端使用node.js编写相应的api接口完成数据查询。<br><br>
+信息修改页:使用element-ui`Container 布局容器`、`表单Form`,使用`axios`进行数据更新，后端使用node.js编写相应的api接口完成数据更新。<br><br>
+分页操作:使用element-ui组件的`Pagination 分页`以及组件自带的`Events 事件`与后台相关接口的数据集查询完成分页。
