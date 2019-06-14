@@ -11,8 +11,7 @@
 * express:node的框架使用<br>
 * CORS:使用CORS实现跨域<br>
 # 页面信息
-
-
+信息添加页:使用element-ui`Container 布局容器`、`表单Form`以及`Message 消息提示`完成前端样式与布局，使用`axios`发送添加的数据信息，后端使用node.js编写相应的api接口完成表单提交。<br>
 ![image](https://github.com/HZJ0716/node-element/blob/master/img/1.png)
 
 ![image](https://github.com/HZJ0716/node-element/blob/master/img/2.png)
